@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **laravel**
 
-- 👨‍💻 Most of my projects are Available [https://github.com/AkhomAlii?tab=repositories] (Here)
+- 👨‍💻 Most of my projects are Available <a href="https://github.com/AkhomAlii?tab=repositories" target="blank">Here</a>
 
 - 📫 How to reach me **akhomaly@gmail.com**
 
