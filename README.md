@@ -7,9 +7,9 @@
 
 - 👨‍💻 Some of my projects are Available <a href="https://github.com/AkhomAlii?tab=repositories" target="blank">Here</a>
 
-- 📫 How to reach me **akhomaly@gmail.com**
+- 📫 How to reach me **abdura7man.aly@gmail.com** OR
 
-- 📄 Know about my experiences [leaveThisForNow](leaveThisForNow)
+<!--- 📄 Know about my experiences [leaveThisForNow](leaveThisForNow)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
